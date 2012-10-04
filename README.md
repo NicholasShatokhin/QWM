@@ -1,3 +1,2 @@
-Fast lightweight window manager written by Qt C++
-and with interface created by QML. So, it light,
-it fast and you can modify interface as you wish.
+Fast, lightweight window manager written in C++ with Qt.
+QML-based user interface provides easy and flexible customization. 
